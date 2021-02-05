@@ -1,3 +1,5 @@
+![zaplanujbiznes | www](https://logo.zaplanujbiznes.pl/1/cover.png)
+
 # [zaplanujbiznes | www](https://www.zaplanujbiznes.pl/)
 
 Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki
