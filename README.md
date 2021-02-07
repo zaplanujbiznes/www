@@ -1,6 +1,6 @@
-![zaplanujbiznes | www](https://logo.zaplanujbiznes.pl/1/cover.png)
+![zaplanujbiznes](https://logo.zaplanujbiznes.pl/1/cover.png)
 
-# [zaplanujbiznes | www](https://www.zaplanujbiznes.pl/)
+# [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 
 Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki
 
@@ -21,3 +21,14 @@ Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki
 ## Zasięg działania 
 + oferta i współpraca na poziomie kontynentów z zagospodarowaniem poszczególnych krajów
 
+Usługi:
+
+1. Bankowe
+
+2. księgowość
+
+
+3. Partnerzy, dystrybucja usług
+
+
+4. Narzędzia do wytwarzania, dystrybucji
