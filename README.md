@@ -2,9 +2,16 @@
 
 # [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 
-Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki
+Dokumentacja:
 
-+ Tutaj poszerzamy horyzonty działania mikroprzedsiębiorst i wpływ ich mikrousług na globalną gospodarkę.
++ [nierezydent.pl](https://www.nierezydent.pl/)
++ [dlaczego.de](https://www.dlaczego.de)
++ [rezydent.de](https://www.rezydent.de)
+
+
+Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki przed utraceniem pozycji w drodze do celu.
+
++ Tutaj poszerzamy horyzonty działania mikroprzedsiębiorstw i wpływ ich mikrousług na globalną gospodarkę.
 
 ## Wizja i strategia
 + wychodzimy poza strefę dyskomfortu lockdown'u
