@@ -4,9 +4,9 @@
 
 więcej:
 
-+ [jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
-+ [dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
-+ [Dlaczeo warto być rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 
 
 Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki przed utraceniem pozycji w drodze do celu.
