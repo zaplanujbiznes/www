@@ -2,11 +2,11 @@
 
 # [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 
-Dokumentacja:
+więcej:
 
-+ [nierezydent.pl](https://www.nierezydent.pl/)
-+ [dlaczego.de](https://www.dlaczego.de)
-+ [rezydent.de](https://www.rezydent.de)
++ [jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
++ [dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto być rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 
 
 Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki przed utraceniem pozycji w drodze do celu.
@@ -39,3 +39,13 @@ Usługi:
 
 
 4. Narzędzia do wytwarzania, dystrybucji
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
