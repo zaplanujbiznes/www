@@ -41,6 +41,10 @@ Usługi:
 4. Narzędzia do wytwarzania, dystrybucji
 
 
+
+
+
+
 ---
 
 ## Tom Sapletta
