@@ -28,19 +28,24 @@ Najlepszą metodą obrony jest codzienny przemyślany atak oraz skuteczne uniki 
 ## Zasięg działania 
 + oferta i współpraca na poziomie kontynentów z zagospodarowaniem poszczególnych krajów
 
-Usługi:
+## Usługi:
 
 1. Bankowe
-
 2. księgowość
-
-
 3. Partnerzy, dystrybucja usług
-
-
 4. Narzędzia do wytwarzania, dystrybucji
 
 
+
+## Zapisz odpowiedzi na pytania i skontaktuj się z nami
+
+## Czego potrzebuje klient?
++ Z czym się zmaga?
++ Jakie ma obiekcje?
++ Czego się obawia?
++ Czym się martwi?
++ O czym marzy?
++ Co sobie ceni?
 
 
 
